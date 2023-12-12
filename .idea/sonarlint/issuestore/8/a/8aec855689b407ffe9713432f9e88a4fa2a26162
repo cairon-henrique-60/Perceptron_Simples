@@ -1,0 +1,5 @@
+
+ppython:S117
+"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(íÆ¦øùÿÿÿÿ8Áğ¼¥1
+cpython:S6711"DUse a "numpy.random.Generator" here instead of this legacy function.(¡Æ†¼8¿¢ÁıÃ1
+bpython:S6711"DUse a "numpy.random.Generator" here instead of this legacy function.(™Ÿş8¿¢ÁıÃ1
